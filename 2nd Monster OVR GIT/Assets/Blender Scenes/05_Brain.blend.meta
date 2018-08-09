@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: c2fd266f893df411496eb72e8b0bd0b8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Brain_Bottom
+    100004: Brain_Stem
+    100006: Brain_TOp
+    100008: Eye
+    100010: Spine
+    100012: CollisionGemoetry
+    100014: Brainfunnel
+    100016: CollisionGeometry
+    100018: Brain_Tops
+    100020: Brain_Null
+    100022: Nerves
+    100024: Stemnerves
+    100026: Armature
+    100028: BrainTop
+    100030: Eye_L_000
+    100032: Eye_L_001
+    100034: Eye_R_000
+    100036: Eye_R_001
+    100038: Face_L
+    100040: Face_L_001
+    100042: Face_L_002
+    100044: Face_L_003
+    100046: Face_L_004
+    100048: Face_L_005
+    100050: Face_L_006
+    100052: Face_R
+    100054: Face_R_001
+    100056: Face_R_002
+    100058: Face_R_003
+    100060: Face_R_004
+    100062: Face_R_005
+    100064: Face_R_006
+    100066: front
+    100068: front_001
+    100070: Spine_000
+    100072: Spine_001
+    100074: Spine_002
+    100076: Spine_003
+    100078: Spine_004
+    100080: Spine_005
+    100082: Spine_006
+    100084: Spine_007
+    400000: //RootNode
+    400002: Brain_Bottom
+    400004: Brain_Stem
+    400006: Brain_TOp
+    400008: Eye
+    400010: Spine
+    400012: CollisionGemoetry
+    400014: Brainfunnel
+    400016: CollisionGeometry
+    400018: Brain_Tops
+    400020: Brain_Null
+    400022: Nerves
+    400024: Stemnerves
+    400026: Armature
+    400028: BrainTop
+    400030: Eye_L_000
+    400032: Eye_L_001
+    400034: Eye_R_000
+    400036: Eye_R_001
+    400038: Face_L
+    400040: Face_L_001
+    400042: Face_L_002
+    400044: Face_L_003
+    400046: Face_L_004
+    400048: Face_L_005
+    400050: Face_L_006
+    400052: Face_R
+    400054: Face_R_001
+    400056: Face_R_002
+    400058: Face_R_003
+    400060: Face_R_004
+    400062: Face_R_005
+    400064: Face_R_006
+    400066: front
+    400068: front_001
+    400070: Spine_000
+    400072: Spine_001
+    400074: Spine_002
+    400076: Spine_003
+    400078: Spine_004
+    400080: Spine_005
+    400082: Spine_006
+    400084: Spine_007
+    2300000: Brain_Bottom
+    2300002: Brain_Stem
+    2300004: Brain_TOp
+    2300006: Eye
+    2300008: Spine
+    2300010: CollisionGemoetry
+    2300012: Brainfunnel
+    2300014: Brain_Tops
+    2300016: Nerves
+    2300018: Stemnerves
+    3300000: Brain_Bottom
+    3300002: Brain_Stem
+    3300004: Brain_TOp
+    3300006: Eye
+    3300008: Spine
+    3300010: CollisionGemoetry
+    3300012: Brainfunnel
+    3300014: Brain_Tops
+    3300016: Nerves
+    3300018: Stemnerves
+    4300000: Brain_Bottom
+    4300002: Brain_TOp
+    4300004: Brain_Stem
+    4300006: Spine
+    4300008: Eye
+    4300010: CollisionGemoetry
+    4300012: Brainfunnel
+    4300014: Brain_Tops
+    4300016: Nerves
+    4300018: Stemnerves
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: idle_loop_001
+    9500000: //RootNode
+    13700000: Brain_Stem
+    13700002: Nerves
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 920da21dae4d943f7b427408b730ba9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 6b33071967aa14f0f99749a61959605c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

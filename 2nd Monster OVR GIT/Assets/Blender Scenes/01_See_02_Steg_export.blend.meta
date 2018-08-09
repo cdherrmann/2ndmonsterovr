@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 478acdc6cc286fe48bcf974d36cab87f
+timeCreated: 1532081963
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CollisionGeometry
+    100004: See_Steg
+    100006: See_Steg_001
+    100008: StegCollider
+    100010: Hill_Background
+    100012: Ripples_Background
+    100014: Ripples_Foreground
+    100016: See_Baeume_Front
+    100018: See_Baeume_Front_002
+    100020: See_Baeume_Front_004
+    100022: See_Baeume_Front_006
+    100024: See_Bergkette
+    100026: See_Cloud
+    100028: See_SkySphere
+    100030: Stone_000
+    100032: Stone_001
+    100034: Stone_002
+    100036: Stone_003
+    100038: Stone_004
+    100040: Stone_005
+    100042: Trees_Foreground
+    400000: //RootNode
+    400002: CollisionGeometry
+    400004: See_Steg
+    400006: See_Steg_001
+    400008: StegCollider
+    400010: Hill_Background
+    400012: Ripples_Background
+    400014: Ripples_Foreground
+    400016: See_Baeume_Front
+    400018: See_Baeume_Front_002
+    400020: See_Baeume_Front_004
+    400022: See_Baeume_Front_006
+    400024: See_Bergkette
+    400026: See_Cloud
+    400028: See_SkySphere
+    400030: Stone_000
+    400032: Stone_001
+    400034: Stone_002
+    400036: Stone_003
+    400038: Stone_004
+    400040: Stone_005
+    400042: Trees_Foreground
+    2100000: Steg
+    2100002: Steg__See_02_jpg
+    2100004: unnamed
+    2100006: Wasserreflexe
+    2100008: Vertex_Colors
+    2100010: Vertex_Colors__Trees_Foreground
+    2100012: Reflections_back__Reflections
+    2100014: Reflections__Reflections
+    2100016: See_SkySphere__See_SkySphere
+    2100018: Vertex_Colors__See_Cloud
+    2100020: See_Bergkette__See_Bergkette
+    2300000: See_Steg
+    2300002: See_Steg_001
+    2300004: StegCollider
+    2300006: See_Baeume_Front_002
+    2300008: See_Baeume_Front_004
+    2300010: See_SkySphere
+    2300012: Stone_000
+    2300014: Stone_001
+    2300016: Stone_002
+    2300018: Stone_003
+    2300020: Stone_004
+    2300022: Stone_005
+    2300024: Trees_Foreground
+    3300000: See_Steg
+    3300002: See_Steg_001
+    3300004: StegCollider
+    3300006: See_Baeume_Front_002
+    3300008: See_Baeume_Front_004
+    3300010: See_SkySphere
+    3300012: Stone_000
+    3300014: Stone_001
+    3300016: Stone_002
+    3300018: Stone_003
+    3300020: Stone_004
+    3300022: Stone_005
+    3300024: Trees_Foreground
+    4300000: See_Steg_001
+    4300002: See_Steg
+    4300004: StegCollider
+    4300006: Stone_005
+    4300008: Stone_004
+    4300010: See_Baeume_Front_006
+    4300012: Stone_000
+    4300014: Stone_002
+    4300016: Stone_003
+    4300018: Stone_001
+    4300020: Hill_Background
+    4300022: See_Baeume_Front_004
+    4300024: Ripples_Background
+    4300026: Ripples_Foreground
+    4300028: Trees_Foreground
+    4300030: See_Baeume_Front_002
+    4300032: See_SkySphere
+    4300034: See_Cloud
+    4300036: See_Bergkette
+    4300038: See_Baeume_Front
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Hill_Background
+    13700002: Ripples_Background
+    13700004: Ripples_Foreground
+    13700006: See_Baeume_Front
+    13700008: See_Baeume_Front_006
+    13700010: See_Bergkette
+    13700012: See_Cloud
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

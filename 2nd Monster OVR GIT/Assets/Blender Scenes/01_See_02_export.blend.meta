@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 18206d3da66fcda489b367d057af05d1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hill_Background
+    100004: Ripples_Background
+    100006: Ripples_Foreground
+    100008: Ripples_Steg
+    100010: See_Baeume_back
+    100012: See_Baeume_Front
+    100014: See_Baeume_Front_002
+    100016: See_Baeume_Front_004
+    100018: See_Baeume_Front_006
+    100020: See_Bergkette
+    100022: See_Cloud
+    100024: See_SkySphere
+    100026: See_Steg
+    100028: See_Steg_001
+    100030: Stone_000
+    100032: Stone_001
+    100034: Stone_002
+    100036: Stone_003
+    100038: Stone_004
+    100040: Stone_005
+    100042: Trees_Background
+    100044: Trees_Foreground
+    100046: CollisionGeometry
+    100048: StegCollider
+    100050: See_Baeume_Spiegelung_Front
+    100052: Hill_Background_001
+    400000: //RootNode
+    400002: Hill_Background
+    400004: Ripples_Background
+    400006: Ripples_Foreground
+    400008: Ripples_Steg
+    400010: See_Baeume_back
+    400012: See_Baeume_Front
+    400014: See_Baeume_Front_002
+    400016: See_Baeume_Front_004
+    400018: See_Baeume_Front_006
+    400020: See_Bergkette
+    400022: See_Cloud
+    400024: See_SkySphere
+    400026: See_Steg
+    400028: See_Steg_001
+    400030: Stone_000
+    400032: Stone_001
+    400034: Stone_002
+    400036: Stone_003
+    400038: Stone_004
+    400040: Stone_005
+    400042: Trees_Background
+    400044: Trees_Foreground
+    400046: CollisionGeometry
+    400048: StegCollider
+    400050: See_Baeume_Spiegelung_Front
+    400052: Hill_Background_001
+    2300000: Ripples_Steg
+    2300002: See_Baeume_Front_002
+    2300004: See_Baeume_Front_004
+    2300006: See_SkySphere
+    2300008: See_Steg
+    2300010: See_Steg_001
+    2300012: Stone_000
+    2300014: Stone_001
+    2300016: Stone_002
+    2300018: Stone_003
+    2300020: Stone_004
+    2300022: Stone_005
+    2300024: Trees_Background
+    2300026: Trees_Foreground
+    2300028: StegCollider
+    3300000: Ripples_Steg
+    3300002: See_Baeume_Front_002
+    3300004: See_Baeume_Front_004
+    3300006: See_SkySphere
+    3300008: See_Steg
+    3300010: See_Steg_001
+    3300012: Stone_000
+    3300014: Stone_001
+    3300016: Stone_002
+    3300018: Stone_003
+    3300020: Stone_004
+    3300022: Stone_005
+    3300024: Trees_Background
+    3300026: Trees_Foreground
+    3300028: StegCollider
+    4300000: Stone_005
+    4300002: Stone_004
+    4300004: See_Baeume_Front_006
+    4300006: Stone_000
+    4300008: Stone_002
+    4300010: Stone_003
+    4300012: Stone_001
+    4300014: Hill_Background
+    4300016: See_Baeume_Front_004
+    4300018: Trees_Background
+    4300020: Ripples_Background
+    4300022: Ripples_Foreground
+    4300024: Trees_Foreground
+    4300026: See_Baeume_Front_002
+    4300028: Ripples_Steg
+    4300030: See_Steg_001
+    4300032: See_SkySphere
+    4300034: See_Cloud
+    4300036: See_Bergkette
+    4300038: See_Baeume_back
+    4300040: See_Baeume_Front
+    4300042: See_Steg
+    4300044: StegCollider
+    4300046: See_Baeume_Spiegelung_Front
+    4300048: Hill_Background_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Hill_Background
+    13700002: Ripples_Background
+    13700004: Ripples_Foreground
+    13700006: See_Baeume_back
+    13700008: See_Baeume_Front
+    13700010: See_Baeume_Front_006
+    13700012: See_Bergkette
+    13700014: See_Cloud
+    13700016: See_Baeume_Spiegelung_Front
+    13700018: Hill_Background_001
+    13700020: See_SkySphere
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflections__Reflections
+    second: {fileID: 2100000, guid: 912123c4b4e50c34b9860d29af5963ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reflections_back__Reflections
+    second: {fileID: 2100000, guid: 912123c4b4e50c34b9860d29af5963ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: See_Bergkette__See_Bergkette
+    second: {fileID: 2100000, guid: ae59849352f37ea4fbedbcfb5bc5abbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: See_SkySphere__See_SkySphere_psd
+    second: {fileID: 2100000, guid: 8400fb5f8b36158419fbe18b08772991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertex_Colors
+    second: {fileID: 2100000, guid: 893c283d151c38b4c92f32fbbe3dc4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertex_Colors__See_Cloud
+    second: {fileID: 2100000, guid: 0e5ec41ae47d5814abf99ba9584094c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertex_Colors__Trees_Foreground
+    second: {fileID: 2100000, guid: 2e281be8a3d1a974c92533204d4fce05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wasserreflexe
+    second: {fileID: 2100000, guid: 246dcff2e645b074bbda07251dd96a0a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 619758725cb7cc741b1d461d43506211
+timeCreated: 1461756528
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InkBubbles_0
+    21300002: InkBubbles_1
+    21300004: InkBubbles_2
+    21300006: InkBubbles_3
+    21300008: InkBubbles_4
+    21300010: InkBubbles_5
+    21300012: InkBubbles_6
+    21300014: InkBubbles_7
+    21300016: InkBubbles_8
+    21300018: InkBubbles_9
+    21300020: InkBubbles_10
+    21300022: InkBubbles_11
+    21300024: InkBubbles_12
+    21300026: InkBubbles_13
+    21300028: InkBubbles_14
+    21300030: InkBubbles_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 333, z: 307, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: InkBubbles_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 339
+        width: 188
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 81.5}
+        - {x: -37, y: 74.5}
+        - {x: -94, y: 24.5}
+        - {x: -94, y: -73.5}
+        - {x: -64, y: -81.5}
+        - {x: 24, y: -81.5}
+        - {x: 94, y: -41.5}
+        - {x: 94, y: 81.5}
+    - name: InkBubbles_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 339
+        width: 189
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 81.5}
+        - {x: -94.5, y: 27.5}
+        - {x: -94.5, y: -61.5}
+        - {x: -86.5, y: -77.5}
+        - {x: -74.5, y: -81.5}
+        - {x: 13.5, y: -81.5}
+        - {x: 61.5, y: -65.5}
+        - {x: 94.5, y: -29.5}
+        - {x: 94.5, y: 81.5}
+    - name: InkBubbles_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 128
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 37.5}
+        - {x: -64, y: 7.5}
+        - {x: -64, y: -34.5}
+        - {x: -63, y: -35.5}
+        - {x: -42, y: -37.5}
+        - {x: 61, y: -37.5}
+        - {x: 64, y: -27.5}
+        - {x: 64, y: 26.5}
+        - {x: 54, y: 37.5}
+    - name: InkBubbles_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 60}
+        - {x: -68, y: 38}
+        - {x: -68, y: -56}
+        - {x: -56, y: -60}
+        - {x: 68, y: -60}
+        - {x: 68, y: 28}
+        - {x: 52, y: 60}
+    - name: InkBubbles_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 271
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InkBubbles_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 202
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -15, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -9}
+        - {x: -13, y: -20}
+        - {x: 19, y: -20}
+        - {x: 19, y: 16}
+        - {x: 11, y: 20}
+    - name: InkBubbles_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 99
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 25.5}
+        - {x: -28.5, y: 23.5}
+        - {x: -28.5, y: -17.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 9.5, y: -25.5}
+        - {x: 28.5, y: -12.5}
+        - {x: 28.5, y: 18.5}
+        - {x: 25.5, y: 25.5}
+    - name: InkBubbles_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 99
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 32}
+        - {x: -25.5, y: 29}
+        - {x: -25.5, y: -11}
+        - {x: -8.5, y: -32}
+        - {x: 25.5, y: -32}
+        - {x: 25.5, y: 18}
+        - {x: 7.5, y: 32}
+    - name: InkBubbles_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 106
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 25.5}
+        - {x: -28.5, y: 15.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -23.5, y: -25.5}
+        - {x: 14.5, y: -25.5}
+        - {x: 28.5, y: -10.5}
+        - {x: 28.5, y: 10.5}
+        - {x: 8.5, y: 25.5}
+    - name: InkBubbles_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InkBubbles_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 117
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InkBubbles_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 27
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InkBubbles_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 15
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 26.5}
+        - {x: -28.5, y: 18.5}
+        - {x: -28.5, y: -21.5}
+        - {x: -22.5, y: -26.5}
+        - {x: 13.5, y: -26.5}
+        - {x: 28.5, y: -15.5}
+        - {x: 28.5, y: 7.5}
+        - {x: 16.5, y: 26.5}
+    - name: InkBubbles_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 31
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -18, y: 10.5}
+        - {x: -18, y: -11.5}
+        - {x: -13, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 18, y: -16.5}
+        - {x: 18, y: 10.5}
+        - {x: 11, y: 17.5}
+    - name: InkBubbles_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: InkBubbles_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -21, y: 10}
+        - {x: -21, y: -17}
+        - {x: 6, y: -17}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

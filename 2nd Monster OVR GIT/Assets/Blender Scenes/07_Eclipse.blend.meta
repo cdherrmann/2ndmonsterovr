@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 48b21fb34314f1a4fb9e5a6b4db3edfa
+timeCreated: 1460631958
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Burst_000
+    100004: Ring
+    100006: Sun
+    100008: Ring_001
+    100010: Ring_002
+    100012: Ring_003
+    100014: Ring_004
+    100016: Collision
+    100018: Collision_Null
+    100020: Ring_005
+    100022: Armature
+    100024: Bone
+    100026: Bone_001
+    100028: Bone_002
+    100030: Bone_003
+    100032: Bone_004
+    100034: Bone_005
+    100036: Bone_006
+    100038: Bone_007
+    100040: Bone_008
+    100042: Empty
+    100044: Shaft-000
+    100046: Shaft-000_001
+    100048: Shaft-000_002
+    100050: Shaft-000_003
+    100052: Sun_0
+    100054: Icosphere
+    400000: //RootNode
+    400002: Burst_000
+    400004: Ring
+    400006: Sun
+    400008: Ring_001
+    400010: Ring_002
+    400012: Ring_003
+    400014: Ring_004
+    400016: Collision
+    400018: Collision_Null
+    400020: Ring_005
+    400022: Armature
+    400024: Bone
+    400026: Bone_001
+    400028: Bone_002
+    400030: Bone_003
+    400032: Bone_004
+    400034: Bone_005
+    400036: Bone_006
+    400038: Bone_007
+    400040: Bone_008
+    400042: Empty
+    400044: Shaft-000
+    400046: Shaft-000_001
+    400048: Shaft-000_002
+    400050: Shaft-000_003
+    400052: Sun_0
+    400054: Icosphere
+    2300000: Burst_000
+    2300002: Ring
+    2300004: Sun
+    2300006: Ring_001
+    2300008: Ring_002
+    2300010: Ring_003
+    2300012: Ring_004
+    2300014: Collision
+    2300016: Ring_005
+    2300018: Icosphere
+    3300000: Burst_000
+    3300002: Ring
+    3300004: Sun
+    3300006: Ring_001
+    3300008: Ring_002
+    3300010: Ring_003
+    3300012: Ring_004
+    3300014: Collision
+    3300016: Ring_005
+    3300018: Icosphere
+    4300000: Burst_000
+    4300002: Ring
+    4300004: Sun
+    4300006: Ring_001
+    4300008: Ring_004
+    4300010: Ring_003
+    4300012: Ring_002
+    4300014: Collision
+    4300016: Ring_005
+    4300018: Shaft-000_003
+    4300020: Shaft-000
+    4300022: Shaft-000_001
+    4300024: Shaft-000_002
+    4300026: Icosphere
+    7400000: Default Take
+    7400002: sun_Growing
+    9500000: //RootNode
+    13700000: Ring
+    13700002: Ring_002
+    13700004: Shaft-000
+    13700006: Shaft-000_001
+    13700008: Shaft-000_002
+    13700010: Shaft-000_003
+    13700012: Sun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 1436
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone_001
+        weight: 1
+      - path: Armature/Bone_002
+        weight: 1
+      - path: Armature/Bone_003
+        weight: 1
+      - path: Armature/Bone_004
+        weight: 1
+      - path: Armature/Bone_005
+        weight: 1
+      - path: Armature/Bone_006
+        weight: 1
+      - path: Armature/Bone_007
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Sun_0
+        weight: 1
+      - path: Collision_Null
+        weight: 0
+      - path: Collision_Null/Collision
+        weight: 0
+      - path: Icosphere
+        weight: 0
+      - path: Ring
+        weight: 0
+      - path: Ring_002
+        weight: 0
+      - path: Shaft-000
+        weight: 0
+      - path: Shaft-000_001
+        weight: 0
+      - path: Shaft-000_002
+        weight: 0
+      - path: Shaft-000_003
+        weight: 0
+      - path: Sun
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sun_Growing
+      takeName: sun_Growing
+      firstFrame: -1
+      lastFrame: 1093
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone_001
+        weight: 1
+      - path: Armature/Bone_002
+        weight: 1
+      - path: Armature/Bone_003
+        weight: 1
+      - path: Armature/Bone_004
+        weight: 1
+      - path: Armature/Bone_005
+        weight: 1
+      - path: Armature/Bone_006
+        weight: 1
+      - path: Armature/Bone_007
+        weight: 1
+      - path: Armature/Bone_008
+        weight: 1
+      - path: Armature/Sun_0
+        weight: 1
+      - path: Collision_Null
+        weight: 0
+      - path: Collision_Null/Collision
+        weight: 0
+      - path: Empty
+        weight: 1
+      - path: Ring
+        weight: 1
+      - path: Ring_002
+        weight: 1
+      - path: Shaft-000
+        weight: 1
+      - path: Shaft-000_001
+        weight: 1
+      - path: Shaft-000_002
+        weight: 1
+      - path: Shaft-000_003
+        weight: 1
+      - path: Sun
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
